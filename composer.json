@@ -1,5 +1,5 @@
 {
-    "name": "developvi/laravel-slug-i18n",
+    "name": "kyhnitskyi/laravel-slug-i18n",
     "description": "A Laravel package to generate multilingual slugs (UTF-8) with optional transliteration skipping for specific locales.",
     "type": "library",
     "license": "MIT",
